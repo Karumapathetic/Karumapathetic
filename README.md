@@ -3,7 +3,7 @@
     "about-me": {
         "current-school": "Epitech Technology",
         "school-promo": "Promo 2027",
-        "current-os": "Linux, Ubuntu",
+        "current-os": "Arch Linux",
         "main-hobbies": [
             "Music",
             "Games",
